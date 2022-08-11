@@ -1,4 +1,5 @@
-##This is a part of the functional programming ([course](https://github.com/semerdzhiev/fp-2020-21)) @SU-FMI
+### This is a part of the functional programming [course](https://github.com/semerdzhiev/fp-2020-21) @SU-FMI
+
 
 ### Теми
 1. [Въведение в Scheme](./01)
